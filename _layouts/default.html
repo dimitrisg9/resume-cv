@@ -7,27 +7,26 @@ layout: compress
 <!--[if !IE]><!--> <html lang="en"> <!--<![endif]-->  
 
 
-<div class="custom-padding">
-        <nav>	
-	    <input type="checkbox" id="nav" class="hidden">
-	    
-            <ul class="menu-area">
-                <li><a href="#">Home</a></li>
-                <li><a href="#CAREER PROFILE">CAREER</a></li>
-                <li><a href="#">EDUCATION</a></li>
-                <li><a href="#s">SKILLS</a></li>
-                <li><a href="#">Contact</a></li>
-            </ul>
-        </nav>
-    </div>
-
 <head>
-  <link rel="stylesheet" href="style.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0"
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<link rel="stylesheet" href="style.css">
 </head>
 
 {% include head.html %}
-
 <body>
+	<div class="custom-padding">
+        <nav>
+	    
+            <ul class="menu-area">
+                <li><a href="#">Home</a></li>
+                <li><a href="#career">CAREER</a></li>
+                <li><a href="#education">EDUCATION</a></li>
+                <li><a href="#skills">SKILLS</a></li>
+                <li><a href="tel:{{ sidebar.phone }}">Contact</a></li>
+            </ul>
+        </nav>
+	</div>
   <div class="wrapper">
     {% include sidebar.html %}
 
@@ -42,3 +41,4 @@ layout: compress
 </body>
 
 </html>
+

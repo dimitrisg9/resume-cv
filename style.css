@@ -25,7 +25,7 @@
 
         nav {
             position: relative;
-            width: calc(80% - 60px);
+            width: calc(100% - 60px);
             margin: 0 auto;
             padding: 10px 0;
             background: #A15277;

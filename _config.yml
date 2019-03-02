@@ -23,7 +23,4 @@ compress_html: # - http://jch.penibelst.de/
   ignore:
     envs: development
 
-# Development Settings
-port: 
-host: 
-safe: false
+

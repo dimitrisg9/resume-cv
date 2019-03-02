@@ -1,4 +1,4 @@
-#
+﻿#
 # Be aware that even a small syntax error here can lead to failures in output.
 #
 
@@ -23,6 +23,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
+    instagram: dimitrisvasilioug9
 
     languages:
       - idiom: Greek

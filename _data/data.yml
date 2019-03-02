@@ -52,7 +52,7 @@ career-profile:
       at Ionian University. I have developed basic skills in some programming
       languages that I learn throughout my semester.
 education:
-    - degree: MSc in Computer Science
+    - degree: BSc in Computer Science
       university: Ionian University
       time: 3rd year 
       details: |
@@ -172,25 +172,25 @@ experiences:
        # authors: Edgar T. Irons
         #conference: "Comm. ACM 4 (1961), 51–55"
 
-#skills:
- #   title: Skills &amp; Proficiency
+skills:
+    title: Skills &amp; Proficiency
 
-  #  toolset:
-   #   - name: Python & Django
-    #    level: 98%
+    toolset:
+      - name: Python & Django
+        level: 98%
 
-     # - name: Javascript & jQuery
-      #  level: 98%
+      - name: Javascript & jQuery
+        level: 98%
 
-      #- name: Angular
-       # level: 98%
+      - name: Angular
+        level: 98%
 
-      #- name: HTML5 & CSS
-       # level: 95%
+      - name: HTML5 & CSS
+        level: 95%
 
-      #- name: Ruby on Rails
-       # level: 85%
+      - name: Ruby on Rails
+        level: 85%
 
-      #- name: Sketch & Photoshop
-       # level: 60%
+      - name: Sketch & Photoshop
+        level: 60%
 

@@ -1,94 +1,33 @@
-* {
-            margin: 0;
-            padding: 0;
-            outline: 0;
-            box-sizing: border-box;
-        }
-        body {
-            background-image: url(https://i.postimg.cc/DftcpyvG/1.jpg);
-            -webkit-background-size:cover;
-            background-size:cover;
-            background-position: center center;
-            height: 100vh;
-        }
-        .menu-area li a {
-            text-decoration: none;
-        }
+/* Add a black background color to the top navigation */
+.topnav {
+  background-color: #A15277;
+  overflow: hidden;
+}
 
-        .menu-area li {
-            list-style-type: none;
-        }
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  display: block;
+  color: #A15277;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
 
-        .custom-padding{
-            padding-top: 25px;
-        }
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
 
-        nav {
-            position: relative;
-            width: calc(100% - 60px);
-            margin: 0 auto;
-            padding: 10px 0;
-            background: #A15277;
-            z-index: 1;
-            text-align: right;
-            padding-right: 2%;
-        }
+/* Add an active class to highlight the current page */
+.active {
+  background-color: #A15277;
+  color: white;
+}
 
-        .logo {
-            width: 15%;
-            float: left;
-            text-transform: uppercase;
-            color: #fff;
-            font-size: 25px;
-            text-align: left;
-            padding-left: 2%;
-        }
-
-        .menu-area li {
-            display: inline-block;
-        }
-
-        .menu-area a {
-            color: #fff;
-            font-weight: 200;
-            letter-spacing: 1px;
-            text-transform: uppercase;
-            display: block;
-            padding: 0 25px;
-            font-size: 14px;
-            line-height: 30px;
-            position: relative;
-            z-index: 1;
-        }
-        .menu-area a:hover {
-            background: tomato;
-            color: #fff;
-        }
-
-        .menu-area a:hover:after {
-            transform: translateY(-50%) rotate(-35deg);
-        }
-
-        nav:before {
-            position: absolute;
-            content: '';
-            border-top: 10px solid #A15277;
-            border-right: 10px solid #A15277;
-            border-left: 10px solid transparent;
-            border-bottom: 10px solid transparent;
-            top: 100%;
-            left: 0;
-        }
-
-        nav:after {
-            position: absolute;
-            content: '';
-            border-top: 10px solid #A15277;
-            border-left: 10px solid #A15277;
-            border-right: 10px solid transparent;
-            border-bottom: 10px solid transparent;
-            top: 100%;
-            right: 0;
-        }
-	
-	
+/* Hide the link that should open and close the topnav on small screens */
+.topnav .icon {
+  display: none;
+}

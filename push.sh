@@ -5,7 +5,7 @@ setup_git() {
 
 commit_pdf() {
   git checkout master
-  git add pdf.pdf
+  git add cv.pdf
   git commit --message "Travis build: $TRAVIS_BUILD_NUMBER"
 }
 

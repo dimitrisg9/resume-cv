@@ -196,7 +196,7 @@ skills:
       - name: Sketch & Photoshop
         level: 60%
 # Settings
-mainfont: Computer Latin 
+mainfont: Latin Modern
 fontsize: 10pt
 lang: en-us
 geometry: a4paper, left=35mm, right=35mm, top=51mm, bottom=17mm

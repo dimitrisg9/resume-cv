@@ -4,7 +4,7 @@
 # Whitelist gh-pages branch
 branches:
   only:
-    - master
+    - gh-pages
 
 # Set the language
 language: bash
@@ -26,6 +26,4 @@ before_install:
 # Attempt to create a PDF
 script:
   - make pdf
-  - make tex
-  - make docx
-  - make html
+  

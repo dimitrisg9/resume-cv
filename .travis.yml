@@ -27,3 +27,9 @@ before_install:
 script:
   - make pdf
   
+deploy:
+    api_key: $GITHUB_TOKEN
+    file: cv.pdf
+    skip_cleanup: true
+    on:
+        repo: dimitrisg9/resume-cv

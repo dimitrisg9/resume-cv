@@ -15,3 +15,6 @@ before_install:
 - sudo apt-get install lmodern
 script:
 - make pdf
+
+after_success:
+- "./push.sh"

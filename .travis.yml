@@ -5,7 +5,6 @@
 branches:
   only:
     - master
-
 # Set the language
 language: bash
 
@@ -35,3 +34,5 @@ deploy:
     on:
         repo: dimitrisg9/resume-cv
         
+after_success:
+- bash push.sh

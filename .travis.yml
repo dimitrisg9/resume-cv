@@ -4,7 +4,7 @@
 # Whitelist gh-pages branch
 branches:
   only:
-    - gh-pages
+    - master
 
 # Set the language
 language: bash

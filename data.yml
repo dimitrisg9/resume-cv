@@ -2,6 +2,11 @@
 #
 # Be aware that even a small syntax error here can lead to failures in output.
 #
+# Settings
+mainfont: Source Sans Pro 
+fontsize: 10pt
+lang: en-us
+geometry: a4paper, left=35mm, right=35mm, top=51mm, bottom=17mm
 
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
@@ -195,9 +200,5 @@ skills:
 
       - name: Sketch & Photoshop
         level: 60%
-# Settings
-mainfont: Source Sans Pro 
-fontsize: 10pt
-lang: en-us
-geometry: a4paper, left=35mm, right=35mm, top=51mm, bottom=17mm
+
 ---

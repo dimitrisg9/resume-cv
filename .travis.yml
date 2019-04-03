@@ -34,5 +34,3 @@ deploy:
     on:
         repo: dimitrisg9/resume-cv
         
-after_success:
-- bash push.sh

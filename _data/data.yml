@@ -91,9 +91,6 @@ education:
         I graduated from Pallouriotissa high-school with orientation in the following formal science's classes:
         Maths, Psysics, Biology and Computer Science. 
         
-projects: 
-  intro: "One major project assigned by the University was the analysis and design of a current or original Information System for an organisation."
-  title: "ANALYSIS AND DESIGN OF INFORMATION SYSTEMS"
             
     #- degree: BSc in Applied Mathematics
      # university: Bristol University
@@ -144,10 +141,13 @@ projects:
          # - Bullet point
           #- Bullet point
           
+projects: 
+  intro: "One major project assigned by the University was the analysis and design of a current or original Information System for an organisation."
+  title: 
   
-    #assignments:
-     # - title: Velocity
-      #  link: "#hook"
+    assignments:
+      - title: "ANALYSIS AND DESIGN OF INFORMATION SYSTEMS"
+        link: "ΑΝΑΛΥΣΗΚΑΙΣΧΕΔΙΑΣΜΟΣ.pdf"
        # tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
       #- title: DevStudio

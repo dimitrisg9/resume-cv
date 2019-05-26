@@ -58,6 +58,11 @@ career-profile:
       languages that I learn throughout my semester.
 
 education:
+    - degree: High school diploma
+      Lyceum: Lyceum of Pallourgiotissas
+      details: |
+        Ι 
+
     - degree: BSc in Computer Science
       university: Ionian University
       time: 3rd year 
@@ -66,12 +71,12 @@ education:
         my self with new things! We have interesting exercises in every 
         subject and that's good for us as we learn more and more. 
          
-        Throughout my education i have developed basic programming skills in:
+        Throughout my education I have developed basic programming skills in:
         
         - Java and Javascript
         - Python 
         - C and C++
-        - Phaser Game Engine(Html and JS)
+        - Phaser Game Engine( Html and JS)
 
     #- degree: BSc in Applied Mathematics
      # university: Bristol University
@@ -87,19 +92,11 @@ education:
           #- Bullet point
 
 experiences:
-  #  - role: Lead Developer
-     # time: 2015 - Present
-      #company: Startup Hubs, San Francisco
-      #details: |
-       # Describe your role here lorem ipsum dolor sit amet, consectetuer
-        #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        #Cum sociis natoque penatibus et magnis dis parturient montes,
-        #nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        #pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        #enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        #error sit voluptatem accusantium doloremque laudantium, totam rem
-        #aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        #architecto beatae vitae dicta sunt explicabo.
+    - role: soldier
+      time: 2014 - 2016
+      company: Startup Hubs, San Francisco
+      details: |
+        
 
          # - Bullet point
           #- Bullet point

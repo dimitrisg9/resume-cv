@@ -95,11 +95,11 @@ experiences:
     - role: soldier
       time: 2014 - 2016
       company: National Guard
-      details: |
+      #details: |
         
 
          # - Bullet point
-          #- Bullet point
+         #- Bullet point
 
     #- role: Senior Software Engineer
      # time: 2014 - 2015

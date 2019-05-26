@@ -145,9 +145,9 @@ education:
           
   projects:
     title: ANALYSIS AND DESIGN OF INFORMATION SYSTEMS
-    intro: "Σας ζητείται να κάνετε ανάλυση απαιτήσεων και σχεδιασμό
-            για την επέκταση ενός υπάρχοντος ή για την ανάπτυξη ενός 
-            νέου Π.Σ. σε έναν οργανισμό."
+    intro: "One major project assigned by the University was
+    the analysis and design of a current or original Information
+    System for an organisation."
     #assignments:
      # - title: Velocity
       #  link: "#hook"

@@ -41,13 +41,16 @@ sidebar:
       #  level: Professional
 
     interests:
-      - item: Soccer
+      - item: Football
         link:
 
       - item: Music
         link:
 
       - item: Gaming
+        link:
+        
+      - item: Photography
         link:
 
 career-profile:

@@ -59,7 +59,8 @@ career-profile:
 
 education:
     - degree: High school diploma
-      lyceum: Lyceum of Pallourgiotissas
+      university: Lyceum of Pallourgiotissas
+      time: 2011-2014
       details: |
         Ι 
 
@@ -94,7 +95,7 @@ education:
 experiences:
     - role: soldier
       time: 2014 - 2016
-      company: National Guard
+      company: National Army Service, Cyprus
       #details: |
         
 

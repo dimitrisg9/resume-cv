@@ -3,11 +3,10 @@
 # Be aware that even a small syntax error here can lead to failures in output.
 #
 # Settings
-
+mainfont: "Latin Modern Sans"
 fontsize: 10pt
 geometry: "a4paper, left=35mm, right=35mm, top=51mm, bottom=17mm"
 lang: en-us
-mainfont: "Latin Modern Sans"
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: False # set to False if you want education in main section instead of in sidebar

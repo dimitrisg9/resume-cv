@@ -91,11 +91,9 @@ education:
         I graduated from Pallouriotissa high-school with orientation in the following formal science's classes:
         Maths, Psysics, Biology and Computer Science. 
         
-projects:
-    title: ANALYSIS AND DESIGN OF INFORMATION SYSTEMS
-    intro: "One major project assigned by the University was
-            the analysis and design of a current or original Information
-            System for an organisation."
+projects: 
+  intro: "One major project assigned by the University was the analysis and design of a current or original Information System for an organisation."
+  title: "ANALYSIS AND DESIGN OF INFORMATION SYSTEMS"
             
     #- degree: BSc in Applied Mathematics
      # university: Bristol University

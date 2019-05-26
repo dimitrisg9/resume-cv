@@ -62,8 +62,14 @@ education:
       university: Lyceum of Pallourgiotissas
       time: 2011-2014
       details: |
-        Ι 
-
+        Ι have to write details!!!
+        
+    - degree: Army Service 
+      university: National Army Service, Cyprus
+      time: 2014 - 2016
+      details: |
+        I have to write details!!!
+        
     - degree: BSc in Computer Science
       university: Ionian University
       time: 3rd year 
@@ -92,10 +98,10 @@ education:
          # - Bullet point
           #- Bullet point
 
-experiences:
-    - role: Army Service
-      time: 2014 - 2016
-      company: National Army Service, Cyprus
+#experiences:
+    #- role: Army Service
+    #  time: 2014 - 2016
+    #  company: National Army Service, Cyprus
       #details: |
         
 

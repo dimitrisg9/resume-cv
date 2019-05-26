@@ -143,12 +143,12 @@ education:
           
 projects: 
   intro: "One major project assigned by the University was the analysis and design of a current or original Information System for an organisation."
-  title: 
+  title: Projects
   
     assignments:
       - title: "ANALYSIS AND DESIGN OF INFORMATION SYSTEMS"
-        link: "ΑΝΑΛΥΣΗΚΑΙΣΧΕΔΙΑΣΜΟΣ.pdf"
-       # tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        link: "/resume-cv/blob/master/ΑΝΑΛΥΣΗΚΑΙΣΧΕΔΙΑΣΜΟΣ.pdf"
+        tagline: 
 
       #- title: DevStudio
        # link: "#"

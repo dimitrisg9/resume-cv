@@ -1,7 +1,5 @@
 ﻿---
-#
 # Be aware that even a small syntax error here can lead to failures in output.
-#
 # Settings
 mainfont: "Latin Modern Sans"
 fontsize: 10pt

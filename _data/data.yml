@@ -5,7 +5,7 @@
 # Settings
 fontsize: 10pt
 geometry: "a4paper, left=35mm, right=35mm, top=51mm, bottom=17mm"
-lang: en-us
+lang: en-us 
 mainfont: "Latin Modern Sans"
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar

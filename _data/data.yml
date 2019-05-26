@@ -59,7 +59,7 @@ career-profile:
 
 education:
     - degree: High school diploma
-      Lyceum: Lyceum of Pallourgiotissas
+      lyceum: Lyceum of Pallourgiotissas
       details: |
         Ι 
 
@@ -94,7 +94,7 @@ education:
 experiences:
     - role: soldier
       time: 2014 - 2016
-      company: Startup Hubs, San Francisco
+      company: National Guard
       details: |
         
 

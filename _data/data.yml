@@ -141,13 +141,15 @@ education:
          # - Bullet point
           #- Bullet point
           
-projects: 
-  intro: "One major project assigned by the University was the analysis and design of a current or original Information System for an organisation."
-  title: Projects
+projects:
+    title: Projects
+    intro: >
+        "One major project assigned by the University was the analysis and design of a current or original Information System for an organisation."
   
     assignments:
-      - title: "ANALYSIS AND DESIGN OF INFORMATION SYSTEMS"
-        link: "/resume-cv/blob/master/ΑΝΑΛΥΣΗΚΑΙΣΧΕΔΙΑΣΜΟΣ.pdf"
+    
+      - title: ANALYSIS AND DESIGN OF INFORMATION SYSTEMS
+        link: "ΑΝΑΛΥΣΗΚΑΙΣΧΕΔΙΑΣΜΟΣ.pdf"
         tagline: 
 
       #- title: DevStudio

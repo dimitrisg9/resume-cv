@@ -44,9 +44,6 @@ sidebar:
 
       - item: Music
         link:
-
-      - item: Gaming
-        link:
         
       - item: Photography
         link:
@@ -61,7 +58,7 @@ career-profile:
 education:
     - degree: BSc in Computer Science
       university: Ionian University
-      time: 3rd year 
+      time: 4rd year 
       details: |
         My time during University is the most enlightening and demanding challenge of my life.
         It motivates me to come across difficult tasks which include taking risks,
@@ -90,6 +87,11 @@ education:
       details: |
         I graduated from Pallouriotissa high-school with orientation in the following formal science's classes:
         Maths, Psysics, Biology and Computer Science. 
+        
+    - degree: Football Carer 
+      university: Olympiakos Lefkosias
+      time: 2014 - 2016
+      details: |
         
             
     #- degree: BSc in Applied Mathematics

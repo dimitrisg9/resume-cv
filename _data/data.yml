@@ -17,9 +17,9 @@ sidebar:
     # Sidebar links
     email: dimitris.123666@gmail.com
     phone: +357 99795060
-    website: dimitrisg9.github.io/resume-cv #do not add http://
+    website: dimitrisvasiliou.github.io/resume-cv #do not add http://
     linkedin: dimitris vasiliou
-    github: dimitrisg9
+    github: dimitrisvasiliou
     gitlab:
     bitbucket:
     twitter: 
@@ -58,7 +58,7 @@ career-profile:
 education:
     - degree: BSc in Computer Science
       university: Ionian University
-      time: 4rd year 
+      time: 4th year 
       details: |
         My time during University is the most enlightening and demanding challenge of my life.
         It motivates me to come across difficult tasks which include taking risks,
@@ -69,7 +69,7 @@ education:
         - Java and Javascript
         - Python 
         - C and C++
-        - Phaser Game Engine( Html and JS)
+        - Phaser Game Engine( HTML and JS)
 
     - degree: Army Service 
       university: National Army Service, Cyprus
@@ -88,7 +88,7 @@ education:
         I graduated from Pallouriotissa high-school with orientation in the following formal science's classes:
         Maths, Psysics, Biology and Computer Science. 
         
-    - degree: Football Carer 
+    - degree: Football Career 
       university: 
       time: 2006 - 2020
       details: |

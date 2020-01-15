@@ -59,7 +59,7 @@ education:
     - degree: BSc in Computer Science
       university: Ionian University
       time: 4th year 
-      details: |
+      details: >
         My time during University is the most enlightening and demanding challenge of my life.
         It motivates me to come across difficult tasks which include taking risks,
         as it's in my nature to be bold. The University has provided me with the 
@@ -69,8 +69,8 @@ education:
         - Java and Javascript
         - Python 
         - C and C++
-        - Phaser Game Engine( HTML and JS).
-        |
+        - Phaser Game Engine( HTML and JS)
+        
             Grade point average: 7.24/10
          
     - degree: Army Service 
